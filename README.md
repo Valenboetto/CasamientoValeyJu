@@ -6,6 +6,27 @@
     <title>Invitación de Boda</title>
     <style>
         body {
+    background-color: #f3f3f3;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    background: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.button {
+    background: #6c757d;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+        body {
             font-family: Arial, sans-serif;
             text-align: center;
             background-color: #f8f8f8;
